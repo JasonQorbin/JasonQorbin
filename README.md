@@ -4,7 +4,7 @@ I'm a (mostly) self-taught programmer that dabbles with many technologies but mo
 
 - 🌱 I’m currently transitioning from my current job in corporate finance (where I also serve as a part-time defacto developer writing and maintaining internal tools for the company) to a more formal role in the software development space with the aim of becoming a full-stack developer.
 
-- 💞️ I’m looking to collaborate on something or other. Not sure what yet. One of my favourite languages is C++ but I never found something that actually required me using it that I couldn't accomlish easier and faster with less vebose language.
+- 💞️ I’m hoping to collaborate on something cool. Not sure what yet. One of my favourite languages is C++ but I never found some IRL project that actually required me using it that I couldn't accomplish easier and faster with less vebose language.
 
 
 <!---
