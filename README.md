@@ -13,9 +13,8 @@ needed to throw something simple together super-quick.
 # Projects I'm working on 🚧️🏗️
 
 - A web-app based personal finance app. Because I've never been qute happy with any of the
-existing app I've tried.
+existing apps I've tried.
 
-- A simple 2D action adventure game.
 
 <!---
 JasonQorbin/JasonQorbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
